@@ -6,3 +6,7 @@ An iOS app for scanning and posting emoji reactions to license plates, built in 
 
 <img src="https://raw.github.com/erichoracek/Fender/master/README/Scanning.jpg" alt="Vertical Layout" height="578" width="321" />
 <img src="https://raw.github.com/erichoracek/Fender/master/README/Reacting.jpg" alt="Vertical Layout" height="578" width="321" />
+
+# Attribution
+
+Built on top of [openalpr-ios](https://github.com/twelve17/openalpr-ios)
